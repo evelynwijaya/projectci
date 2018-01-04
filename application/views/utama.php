@@ -2,55 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>Lagu Anak</title>
-    <style>
-    body {
-  		background-color: #ffddee;
-  		margin: 40px;
-  		font: 13px/20px normal Helvetica, Arial, sans-serif;
-  		color: #4F5155;
-  	}
-    a:link,a:visited,a:active
-    {
-    width: 200px;
-    margin: 2px;
-    background-color: #a31b5f;
-    color: #fff;
-    padding: 10px 25px;
-    text-align: center;
-    text-decoration: underline;
-    display: inline-block;
-
-    }
-
-    a:hover
-    {
-      width: 200px;
-      margin: 2px;
-      background-color: #d17ba6;
-      color: #fff;
-      padding: 10px 25px;
-      text-align: center;
-      text-decoration: underline;
-      display: inline-block;
-
-    }
-
-.menu {
-  text-align: center;
-}
-
-h1{
-  text-align: center;
-}
-
-a{
-  text-align: center;
-}
-
-.isi{
-  text-align: center;
-}
-    </style>
+<link rel="stylesheet" href="/assets/css/style.css">
   </head>
 
   <body background=bg4.jpg>
